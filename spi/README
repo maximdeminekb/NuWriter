@@ -1,4 +1,4 @@
 Before execute burn.sh script add all images to spi directory
 Check PATH in burn.sh
 Execute with super user rights:
-	sudo burn.sh
+	sudo ./burn.sh
