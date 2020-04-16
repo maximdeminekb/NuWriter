@@ -17,6 +17,7 @@ compiler :
 ./configure --prefix=$PWD/install
 make
 make install
+./preset.sh
 ```
 ## NuWriter command tool examples
 

@@ -13,6 +13,7 @@ compiler :
 	./configure
 	make
 	make install
+	./preset.sh
 
 examples :
 
